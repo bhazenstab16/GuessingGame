@@ -1,0 +1,14 @@
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\bhazenstab16\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+D:\Programming\Intro to Programming\Code\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
